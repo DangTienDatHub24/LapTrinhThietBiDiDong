@@ -13,3 +13,5 @@ function simulateTask(time: number): Promise<string> {
     ]).then((result) => {
     console.log(result);
     });
+
+    export {};
